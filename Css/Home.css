@@ -1,0 +1,19 @@
+/*.img-fluid{
+    border-radius: 5px;
+}
+*/
+.carousel-control-prev-icon { 
+    background-color: black;
+    border-radius: 50%;
+}
+.carousel-control-next-icon{
+    background-color: black;
+    border-radius: 50%;
+}
+a{
+    color: black !important;
+    text-decoration: none !important;
+}
+a:hover {
+    color: rgb(236, 16, 236) !important;
+}
